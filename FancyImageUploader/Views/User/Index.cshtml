@@ -6,6 +6,18 @@
 
 <h2>Index</h2>
 
+@if (!Request.QueryString["id"].IsEmpty())
+{
+    int ID = Convert.ToInt32(Request.Params["id"]);
+    foreach (var item in Model)
+    {
+         if (item.UserID == ID)
+         {
+            @Html.DisplayFor(modelItem => item.UserName) 
+         }
+     }
+}
+
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
