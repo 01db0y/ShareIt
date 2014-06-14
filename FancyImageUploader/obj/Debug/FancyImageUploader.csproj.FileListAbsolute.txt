@@ -49,4 +49,19 @@ D:\Нужное\Учеба\Курс 5 II\СТП\Проект\ShareIt\FancyImageU
 D:\Нужное\Учеба\Курс 5 II\СТП\Проект\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.file_model_added.resources
 D:\Нужное\Учеба\Курс 5 II\СТП\Проект\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.csproj.GenerateResource.Cache
 D:\Нужное\Учеба\Курс 5 II\СТП\Проект\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.folder_model_added.resources
+<<<<<<< HEAD
 F:\C\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.folder_model_added.resources
+=======
+D:\Documents\GitHub\ShareIt\FancyImageUploader\bin\FancyImageUploader.dll
+D:\Documents\GitHub\ShareIt\FancyImageUploader\bin\FancyImageUploader.pdb
+D:\Documents\GitHub\ShareIt\FancyImageUploader\bin\EntityFramework.dll
+D:\Documents\GitHub\ShareIt\FancyImageUploader\bin\EntityFramework.xml
+D:\Documents\GitHub\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.InitialCreate.resources
+D:\Documents\GitHub\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.test_migration.resources
+D:\Documents\GitHub\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.file_model_added.resources
+D:\Documents\GitHub\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.folder_model_added.resources
+D:\Documents\GitHub\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.csproj.GenerateResource.Cache
+D:\Documents\GitHub\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.dll
+D:\Documents\GitHub\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.pdb
+>>>>>>> origin/develop

@@ -98,6 +98,8 @@
       <DependentUpon>201406121558181_folder_model_added.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\AlbumModel.cs" />
+    <Compile Include="Models\UserDataModel.cs" />
     <Compile Include="Models\FileModel.cs" />
     <Compile Include="Models\FolderModel.cs" />
     <Compile Include="Models\RoleModel.cs" />
@@ -234,6 +236,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Home\UserIndex.cshtml" />
+    <Content Include="Views\Home\AlbumsPreview.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
