@@ -49,3 +49,4 @@ D:\Нужное\Учеба\Курс 5 II\СТП\Проект\ShareIt\FancyImageU
 D:\Нужное\Учеба\Курс 5 II\СТП\Проект\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.file_model_added.resources
 D:\Нужное\Учеба\Курс 5 II\СТП\Проект\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.csproj.GenerateResource.Cache
 D:\Нужное\Учеба\Курс 5 II\СТП\Проект\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.folder_model_added.resources
+F:\C\ShareIt\FancyImageUploader\obj\Debug\FancyImageUploader.Migrations.folder_model_added.resources
