@@ -32,7 +32,6 @@ namespace FancyImageUploader.Controllers
         }
 
         // GET: /Home/AlbumsPreview
-
         public ActionResult AlbumsPreview()
         {
             var albums = new UserDataModel();
@@ -64,7 +63,7 @@ namespace FancyImageUploader.Controllers
             var bytes = new byte[0];
             ViewBag.Mime = "image/png";
 
-            if (Request.Files.Count == 1)
+            if (Request.Files.Count == 1) 
             {
                 bytes = new byte[Request.Files[0].ContentLength];
                 Request.Files[0].InputStream.Read(bytes, 0, bytes.Length);
@@ -141,10 +140,7 @@ namespace FancyImageUploader.Controllers
 
                     FileModel file_model = new FileModel();
                     ImageConverter converter = new ImageConverter();
-                    //file_model.FileData = (byte[])converter.ConvertTo(original, typeof(byte[]));
-                    byte[] test_ar = new byte[5];
-                    test_ar[0] = 1;
-                    file_model.FileData = test_ar;
+                    file_model.FileData = (byte[])converter.ConvertTo(original, typeof(byte[]));
                     file_model.FileName = name;
                     file_model.FolderId = 1;
                     db.FileModels.Add(file_model);
