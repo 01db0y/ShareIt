@@ -20,7 +20,7 @@
 }
 <h2>Upload an image</h2>
 @using (Html.BeginForm("UploadImage", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
-{
+{ 
     @Html.HiddenFor(model => model.X)
     @Html.HiddenFor(model => model.Y)
     @Html.HiddenFor(model => model.Width)
