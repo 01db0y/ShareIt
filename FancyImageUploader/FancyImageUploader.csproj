@@ -193,6 +193,7 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201406111055352_InitialCreate.resx">
       <DependentUpon>201406111055352_InitialCreate.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201406121436315_test_migration.resx">
       <DependentUpon>201406121436315_test_migration.cs</DependentUpon>
