@@ -235,6 +235,7 @@
     <Content Include="Views\Folder\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Views\Home\UserIndex.cshtml" />
     <Content Include="Views\Home\AlbumsPreview.cshtml" />
   </ItemGroup>
   <PropertyGroup>
